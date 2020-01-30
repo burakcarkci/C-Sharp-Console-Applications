@@ -1,1 +1,1 @@
-Insert(), Find(), TraversePreOrder(), TraverseInOrder(), TraversePostOrder()
+Insert(), Find(), TraversePreOrder(), TraverseInOrder(), TraversePostOrder(), Height(), Min(), AreEqual(), IsBinarySearchTree(), PrintNodesAtDistance()
